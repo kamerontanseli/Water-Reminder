@@ -1,11 +1,11 @@
 # <img src="public/icons/icon_48.png" width="45" align="left"> Water Reminder
 
-My Chrome Extension
+Chrome Extension to remind you to drink every X minutes
 
 ## Features
 
-- Feature 1
-- Feature 2
+- Set target litres for each day
+- Get reminders every X minutes until you complete your goal
 
 ## Install
 
